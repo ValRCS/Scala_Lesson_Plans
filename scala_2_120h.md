@@ -76,7 +76,7 @@
 
 ## Learning objectives
 * NumPy
-* Pandas
+* Pandas and its Series,DataFrame operations
 * SciPy.Stats
 ## Activities
 * Students follow along instructors notebooks
@@ -207,8 +207,15 @@
 ## Prerequisites: 2 - 6
 
 ## Learning objectives
+* Big data principles
+* Hadoop ecosystem
+* Big data terminology, challenges
+* Hadoop tool overview
+
 
 ## Activities
+* Students follow instructor's presentation
+* Testing Hadoop installation
 
 ## Demonstration
 
@@ -235,9 +242,15 @@
 ## Prerequisites: 2 - 7
 
 ## Learning objectives
+* Big Data Architectures: 
+* batch, streaming principles
+* Lambda architecture
+* Big data processing flow/pipeline
+
 
 ## Activities
-
+* Students Follow Instructor's Presentation
+* Practice on local installation
 ## Demonstration
 
 ## Practice
@@ -291,6 +304,12 @@
 ## Prerequisites: 2 - 9
 
 ## Learning objectives
+* Overview of Spark + Scala: 
+* RDD, 
+* DataSet, 
+* DataFrame, 
+* Libraries, Streaming, Spark SQL, Spark ML
+* Spark base
 
 ## Activities
 
@@ -319,9 +338,18 @@
 ## Prerequisites: 2 - 10
 
 ## Learning objectives
+* RDD, DataSet, DataFrame
+* Performance: 
+* Persistence 
+* Partitioning, 
+* Avoiding or lessen impact from shuffles,
+* Broadcast reusable or large data, 
+* Use accumulators to avoid re-calculations
+* MlLib, GraphX, Spark Steaming
+
 
 ## Activities
-
+* practical tasks on different topics
 ## Demonstration
 
 ## Practice
@@ -331,7 +359,7 @@
 
 
 ## Resources
-[Scala Docs](https://docs.scala-lang.org/)
+[Databricks resources](https://databricks.com/try-databricks)
 
 [Programming in Scala](https://www.oreilly.com/library/view/programming-in-scala/9780981531687/)
 
@@ -403,7 +431,8 @@
 ## Prerequisites: 2 - 13
 
 ## Learning objectives
-
+* Obtain knowledge of Workflow schedulers like Airflow or Oozie
+* Airflow, DAG, tasks, workflow,
 ## Activities
 
 ## Demonstration
@@ -415,9 +444,9 @@
 
 
 ## Resources
-[Scala Docs](https://docs.scala-lang.org/)
+[Airflow](https://airflow.apache.org/)
 
-[Programming in Scala](https://www.oreilly.com/library/view/programming-in-scala/9780981531687/)
+[AirFlow post](http://michal.karzynski.pl/blog/2017/03/19/developing-workflows-with-apache-airflow/)
 
 ## Required for Scala 2 - 15
 
@@ -431,19 +460,26 @@
 ## Prerequisites: 2 - 14
 
 ## Learning objectives
+* Working knowledge of various cloud technology stacks
+* Cloud principles. 
+* AWS, Azure, Google solution for big data analytics
 
 ## Activities
-
+* Students follow lectures on [Mostly theory]
+* What cloud computing, Public/private, benefits
+* AWS overview, EC2, EMR, Lambda, S3, 
+* Azure overview (focus to big data)
+* Google Cloud platform overview (focus to big data)
 ## Demonstration
 
 ## Practice
-
+* Students practice with various cloud technologies
 ## Assessment
 Final Scala 2 project  ETL: extract data from multiple structured and unstructured data sources, clean/transform data, load data into a new data store. Perform modeling / data analysis
 
 
 ## Resources
-[Scala Docs](https://docs.scala-lang.org/)
+[Amazon offerings](https://aws.amazon.com/big-data/datalakes-and-analytics/?nc2=h_ql_prod_an)
 
 [Programming in Scala](https://www.oreilly.com/library/view/programming-in-scala/9780981531687/)
 
