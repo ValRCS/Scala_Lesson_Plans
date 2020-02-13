@@ -8,7 +8,7 @@
 ## Learning objectives
 * Learn how computers respond to instructions
 * compiled vs interpreted programs
-* statements
+* Setting up IDE, text editor
 * Hello World in Scala
 
 ## Activities
@@ -41,7 +41,13 @@
 ## Prerequisites: 1 - 1
 
 ## Learning objectives
-
+* Numbers and Arithmetic
+* Values versus Variables 
+* Type Inference
+* Boolean and Comparison Operators 
+* Strings
+* Regex 
+* Tuples 
 ## Activities
 
 ## Demonstration
@@ -69,7 +75,10 @@
 ## Prerequisites: 1 - 2
 
 ## Learning objectives
-
+* Scala Flow Control, branching
+* While Loops
+* For Loops
+* Functions
 ## Activities
 
 ## Demonstration
@@ -97,6 +106,12 @@
 ## Prerequisites: 1 - 3
 
 ## Learning objectives
+* Obtain knowledge of Scala Collections Data Structures
+* Lists
+* Arrays
+* Maps
+* Sets
+
 
 ## Activities
 
@@ -125,6 +140,12 @@
 ## Prerequisites: 1 - 4
 
 ## Learning objectives
+* Learn DRY principles
+* Functions in SCALA
+* Default and Named Arguments
+* Call By Name and Call by Value
+* Recursion
+
 
 ## Activities
 
@@ -153,13 +174,18 @@
 ## Prerequisites: 1 - 5
 
 ## Learning objectives
+* Principles of OOP in Scala
+* Objects
+* Instances
+* Inheritance
+* Imports
 
 ## Activities
 
 ## Demonstration
 
 ## Practice
-
+* Students create their own Collection
 ## Assessment
 
 
@@ -181,6 +207,9 @@
 ## Prerequisites: 1 - 6
 
 ## Learning objectives
+* Principles of Functional Programming
+* Functions as First Class Objects
+* map, filter
 
 ## Activities
 
@@ -209,7 +238,11 @@
 ## Prerequisites: 1 - 7
 
 ## Learning objectives
-
+* JSON 
+* Parsing and manipulating JSON with SCALA
+* Directories
+* File permissions
+* Compression
 ## Activities
 
 ## Demonstration
@@ -237,9 +270,13 @@
 ## Prerequisites: 1 - 8
 
 ## Learning objectives
+* Databases
+* SQL history and principles from set theory
+* SQL syntax
+* using SQL with SCALA
 
 ## Activities
-
+* Students practice SQL basic syntax
 ## Demonstration
 
 ## Practice
