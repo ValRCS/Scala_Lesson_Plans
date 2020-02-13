@@ -276,7 +276,12 @@
 ## Prerequisites: 2 - 8
 
 ## Learning objectives
-
+* Overview of Spark + Scala: 
+* RDD, 
+* DataSet, 
+* DataFrame, 
+* Libraries, Streaming, Spark SQL, Spark ML
+* Spark base
 ## Activities
 
 ## Demonstration
@@ -304,12 +309,12 @@
 ## Prerequisites: 2 - 9
 
 ## Learning objectives
-* Overview of Spark + Scala: 
-* RDD, 
-* DataSet, 
-* DataFrame, 
-* Libraries, Streaming, Spark SQL, Spark ML
-* Spark base
+* Deeper into Spark DataFrames
+* GroupBy
+* Aggregrate
+* Dealing with Missing Data
+* Timestamps and Date
+
 
 ## Activities
 
@@ -403,7 +408,7 @@
 ## Prerequisites: 2 - 12
 
 ## Learning objectives
-
+* Deeper into DataFrames
 ## Activities
 
 ## Demonstration
