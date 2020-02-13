@@ -293,6 +293,8 @@
 
 
 ## Resources
+[Apache Spark](https://spark.apache.org/)
+
 [Scala Docs](https://docs.scala-lang.org/)
 
 [Programming in Scala](https://www.oreilly.com/library/view/programming-in-scala/9780981531687/)
@@ -327,9 +329,11 @@
 
 
 ## Resources
+[Apache Spark](https://spark.apache.org/)
+
 [Scala Docs](https://docs.scala-lang.org/)
 
-[Programming in Scala](https://www.oreilly.com/library/view/programming-in-scala/9780981531687/)
+[Scala and Spark for Big Data Analytics](http://shop.oreilly.com/product/9781785280849.do)
 
 ## Required for Scala 2 - 11
 
@@ -365,8 +369,11 @@
 
 ## Resources
 [Databricks resources](https://databricks.com/try-databricks)
+[Apache Spark](https://spark.apache.org/)
 
-[Programming in Scala](https://www.oreilly.com/library/view/programming-in-scala/9780981531687/)
+[Scala Docs](https://docs.scala-lang.org/)
+
+[Scala and Spark for Big Data Analytics](http://shop.oreilly.com/product/9781785280849.do))
 
 ## Required for Scala 2 - 12
 
@@ -380,7 +387,7 @@
 ## Prerequisites: 2 - 11
 
 ## Learning objectives
-
+* Deeper into ML
 ## Activities
 
 ## Demonstration
