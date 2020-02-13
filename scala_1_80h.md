@@ -283,9 +283,8 @@
 
 ## Assessment
 
-
-
 ## Resources
+[SQL zoo](https://sqlzoo.net)
 [Scala Docs](https://docs.scala-lang.org/)
 
 [Programming in Scala](https://www.oreilly.com/library/view/programming-in-scala/9780981531687/)
